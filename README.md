@@ -69,8 +69,6 @@ class Firoz:
 
 </div>
 
-> 💡 Remove any icon you don't actually use. Icon IDs: https://skillicons.dev
-
 ---
 
 ## 🚀 Featured Projects
@@ -157,8 +155,8 @@ Portfolio showcasing my AI/ML and Full Stack projects.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="650"/>
+<a href="https://leetcode.com/u/realfiroz_02/">
+  <img src="https://leetcard.jacoblin.cool/realfiroz_02?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="650"/>
 </a>
 
 <br/>
@@ -169,41 +167,11 @@ Portfolio showcasing my AI/ML and Full Stack projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Firoz7000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz7000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Firoz7000&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Firoz7000&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Firoz7000&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Requires a GitHub Action: see setup note. Remove this block if you skip it. -->
-<img src="https://raw.githubusercontent.com/Firoz7000/Firoz7000/output/github-snake-dark.svg" alt="snake" width="100%"/>
 
 </div>
 
